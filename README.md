@@ -27,6 +27,6 @@ Check this page to modify the [Gmail](https://myaccount.google.com/u/0/security)
 
 ## API used to verify email ID
 
-I used an API and checked its JSON data to verify an email address
+I used an API and checked its JSON data to verify an email address,
 API used : [isitarealemail](https://isitarealemail.com/api/email/validate)
 
